@@ -1,0 +1,7 @@
+Started GET "/" for ::1 at 2019-11-25 13:49:42 -0800
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 155ms (Views: 3.7ms)
+
+
